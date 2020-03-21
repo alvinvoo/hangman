@@ -1,6 +1,6 @@
 # hangman - hang till you die
 
-> stack build
+> stack build  
 > stack exec hangman
 
 
