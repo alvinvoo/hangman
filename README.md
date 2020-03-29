@@ -1,10 +1,16 @@
 # hangman - hang till you die
 
 > stack build  
-> stack exec hangman
+> stack exec Hangman  
+  
+*To debug tests via REPL*
+> stack ghci Hangman:tests
+  
+*To run tests*
+> stack test
 
-
-preview:
+    
+Preview:
 
 ```
 Guess a letter: Your guess was: t
